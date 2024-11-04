@@ -1,0 +1,3 @@
+Remote repositories:
+origin	https://github.com/Comicalist/git-practice.git (fetch)
+origin	https://github.com/Comicalist/git-practice.git (push)
